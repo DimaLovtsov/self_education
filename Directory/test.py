@@ -1,3 +1,8 @@
+# import os
+
+# print(os.getcwd()) #A CWD of test is:  C:\Projects VS Code\repository\first_repo\self_education
+
 import os
 
-print("A CWD of test is: ", os.getcwd()) #A CWD of test is:  C:\Projects VS Code\repository\first_repo\self_education
+print("Current Working Directory (CWD):", os.getcwd())
+
